@@ -17,3 +17,7 @@ corporações responsáveis serão os verdadeiros donos do dinheiro dos consumid
 
 
 No geral, a análise pode ser fortemente aplicada para o histórico de desenvolvimento das chamadas "foodtechs" como iFood, 99food, Uber Eats, Rappi e Glovo, e o monopólio/monopsônio subsquente do iFood como única grande empresa sobrevivente dessa competição.
+
+Com a digitização da economia, e o crescimento de monopólios/monopsonios rentistas, hoje temos umas condição onde aqueles que mais detem poder economico (e portanto poder politico) são as empresas "lean" de software que comandam as posições mais críticas da economia, mesmo com produção e forças de trabalho estagnadas:
+
+![Top 6 empresas](imagens/top6companies.png)
