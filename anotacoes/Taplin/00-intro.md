@@ -6,7 +6,8 @@ Nesse livro, o autor descreve e desmistifica as práticas intencionais e elabora
 destribuição de serviços. 
 
 
-Além disso, ele pontua algumas das práticas anti-competitivas intencionais, como o controle dos investimentos em competidores (incluindo o serviço do próprio autor "Interteiner"), redução agressiva de preços em déficit ou sonegação fiscal, ou até ataques diretos contra leis de direitos autorais e anti-pirataria.
+Além disso, ele pontua algumas das práticas anti-competitivas intencionais, como o controle dos investimentos em competidores (incluindo o serviço do próprio autor "Interteiner"), redução agressiva de preços em déficit ou sonegação fiscal, ou até ataques diretos contra leis de direitos autorais e anti-pirataria. Um ponto pouco noticiado sobre o sucesso dessas empresas e suas formações de trusts e monopolios/monopsônios é fato de que a existência e dominação delas se deve em
+grande parte pelo relaxamento de políticas anti-trust estadunidenses, captura regulatória, sonegação de impostos, e imposições imperialistas.
 
 
 Em particular, nenhuma das empresas listadas (Alphabet, Meta, Amazon) realmente produz algo. Ao contrário, elas se situam exatamente no centro entre produção e consumo, agindo como intermediários ( *middlemen*), e controlando todo o fluxo do produto relevante. Isso é elaborado propriamente no livro "Chokepoint Capitalism" de Rebecca Gibbin. Ele também descreve o como, devido a natureza universalizada e padronizada da internet, esses sitemas de software conseguem extender seus monopólios sem limitações por barreiras nacionais.
