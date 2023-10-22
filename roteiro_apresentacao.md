@@ -65,7 +65,8 @@ produto, a corporação pode extrar "mais-valia" [\(surplus value\)](https://en.
 ![Top 6 empresas](imagens/gargalos-de-producao.png)
 
 
-Um dos melhores exemplos de um gargalo produtivo é a Amazon.
+Um dos melhores exemplos de um gargalo produtivo é a Amazon e outros sistemas de marketplace. Um site único onde a grande maioria dos vendedores e compradores é consolidada devido ao incentivo financeiro inicial pelas boas condições iniciais providênciadas pelos investimentos, ou pela impossibilidade de sobrevivência de um negócio após a consolidação devido aos network effects. Depois dessa consolidação, a extração de valor toma uma forma mais extrema e uma piora dos serviços
+(Doctorow define isso como "Enshitifiation" ou "Embositificação"). No caso da Amazon, lojas começam a [serem cobradas um valor de "propaganda"](https://archive.is/3beqB) para poderem aparecer em pesquisas por seus próprios produtos, e a qualidade do [serviço aos clientes](https://archive.is/20230927011741/https://www.washingtonpost.com/technology/interactive/2022/amazon-shopping-ads/) cai ou o serviço em si se torna mais predatório, pois eles não tem alternativas viáveis.
 
 #### Disk Cook, e os Cardápios Digitais
 
