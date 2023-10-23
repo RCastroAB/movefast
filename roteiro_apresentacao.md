@@ -73,7 +73,38 @@ No caso da Amazon, lojas começam a [serem cobradas um valor de "propaganda"](ht
 
 #### Disk Cook, e os Cardápios Digitais
 
+##### Origens
+
+
 Essa teoria será aplicada para a empresa de Cardápios Digitais (chamada também de "Entregas por Aplicativo") iFood (comprada totalmente pela Movile em 2022), que [alguns autores](https://latamlist.com/the-history-behind-the-movile-mafia-latin-americas-biggest-startup-group/) definem como a origem de uma "Movile Mafia," semelhante à PayPal Mafia.
 
 
-Inicialmente chamado Disk Cook em 1997, o iFood começou como uma empresa centralizadora de cardápios por telefone. Ela distribuia livros com os cardápios dos seus restaurantes "parceiros" (terminologia usada pela empresa para seus clientes produtores) e repassavam os pedidos para os restaurantes, que pagavam ao Disk Cook uma porcentagem do valor da compra.
+Inicialmente chamado Disk Cook em 1997, o iFood começou como uma empresa centralizadora de cardápios por telefone (Call Center). Ela distribuia livros com os cardápios dos seus restaurantes "parceiros" (terminologia usada pela empresa para seus clientes produtores) e repassavam os pedidos para os restaurantes, que pagavam ao Disk Cook uma porcentagem do valor da compra.
+Surgindo no ápice das empresas de telemarketing [devido ao declinio industrial da década de 90](https://1library.org/article/estrutura%C3%A7%C3%A3o-do-setor-telecomunica%C3%A7%C3%B5es-telemarketing-brasil-partir-d%C3%A9cada.y4w6j6d9) muito beneficiado  pelas condições sociais da época, como  [desemprego generalizado](https://www.cps.fgv.br/ibre/cps/artigos/Textos_Discus/Mercado%20de%20Trabalho%20nos%20Anos%2090%20Fatos%20Estilizados%20e%20Interpretacoes.pdf), privatização de grandes industrias [como a Vale](https://jornalggn.com.br/economia/a-vale-antes-e-depois-da-privatizacao/), fim do [rotecionismo tecnológico](https://pt.wikipedia.org/wiki/Pol%C3%ADtica_Nacional_de_Inform%C3%A1tica) e reformulação da economia na direção neoliberal de ["economia de serviços"](https://brasilescola.uol.com.br/brasil/crescimento-setor-terciario-no-brasil.htm) (foco econômico e de empregos no setor terciário, ao contrário dos setores extrativos ou industriais) durante o governo FHC.
+
+
+A empresa foi fundada pelo engenheiro florestal formado pela USP Patrick Sigrist, [fundador de uma empresa de cartografia Geosat](https://www.linkedin.com/in/patricksigrist/details/experience/), quando tinha atuação em apenas alguns bairros das cidades do [Rio de Janeiro, São Paulo e Curitiba](https://web.archive.org/web/20231023170523/https://www.techtudo.com.br/tudo-sobre/disk-cook/). Em particular, as entregas eram feitas pelos próprios estabelicimentos, tendo como benefício do
+serviço apeans a conveniência para o usuário, embora aumentando a competição entre restaurantes.
+
+
+Após 10 anos de operação limitada, junto com outros 3 empreendedores e um [investimento de 3 milhões de reais](https://blog.eqseed.com/startup-exit-ifood/), é fundada a empresa iFood, automatizando os procedimentos de callcenter, e integrando "entregadores parceiros" (terminologia da entrega para seus funcionários de entrega) para realiar as entregas para o restaurante, consolidando assim toda interação entre produtor e consumidor. 
+
+Para evitar o risco do mito "rags to riches," vou descrever aqui as origens desses 3 outros empreendedores e seus caráteres privilegiados e conectados. [Felipe Fioravante](https://www.linkedin.com/in/felipe-fioravante-6a40706/), formado em admnistração da USP era consultor em duas empresas de consultorias para multinacionais (Gradus Management e TerraForum). [Gabriel Pinto](https://www.linkedin.com/in/gabrielpinto/) formado em engenharia da computação na UniCamp (o único propriamente formado na área) era o fundador de duas empresas de consultoria para empresas de TI (Onebrain e Stoom). E o Eduardo Baer, USP em Admnistração, que era consultor da multinacional de consultoria de admnistração Bain & Co. Apenas um desses líderes iniciais era da área da computação, mas sua atuação profissional ainda se resumia a admnistração.
+
+De 2011 até 2014 a empresa recebeu mais de [10 milhões de dólares](http://www.brazilstrat.com/the-brazilian-unicorns-part-4-ifood/) em investimentos da Movile e Just Eat (empresa holandesa de delivery), 50 e 60 milhões respectivamente em 2015 e 2016, e 500 milhões de dólares em 2018, se tornando uma das primeiras start-ups avaliadas em mais de 1 bilhão de reais.
+
+##### Prosus-Movile
+
+Em paralelo, Fabricio Bloisi (atual presidente do iFood), Unicamp em Ciência da Computação, fundou em 1998 a empresa de software IntraWeb (futura Movile), com foco em sistemas de sms ou distribuição de conteúdo para celulares pre-smartphone. O sucesso relevante dessa empresa só veio com  a criação do PlayKids, um aplicativo de VOD de desenhos para crianças em 2013. Esse capital é então re-investido em outros projetos nacionais como Sympla ou internacionais, como o Mensajeros Urbanos, com intenção de se tornar uma empresa de capital de risco. Com esse sucesso, o holding multinacional Prosus, subsidiária dedicada para investimentos em serviços de internet da Naspers, passa a investir e finalmente comprar a empresa Movile.
+
+Prosus também é [proprietária de diversas empresas importantes](https://www.prosus.com/our-portfolio) na tecnologia da informação, como StackOverflow, Udemy, PayU, OLX, codecademy, Brainly e outras empresas de delivery como Delivery Hero na Europa.
+
+Sua empresa-mãe, Naspers, foi criada como imprensa do Partido Nacionalista da Africa do Sul, sendo usada para defender e implementar o Apartheid, e quando se torna um holding financia o próprio partido.
+
+
+Após anos como acionista majoritária, a Movile finalmente compra totalmente o iFood em 2022 com mais de 10 bilhões de dólares.
+
+#### Competição: Práticas anticompetitivas em um novo mercado
+
+
+O iFood não foi a primeira empresa para utilizar o sistema de entregadores desregulamentados para realizar o trabalho, produzindo apenas o sistema de gerenciamento. A multinacional de transporte irregular Uber implementou o sistema que passou a ser o modelo base do iFood em escala internacional.
