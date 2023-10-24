@@ -47,6 +47,8 @@ Peter Thiel, considerado o "líder" do grupo, escreveu [um livro](Zero to One) n
 
 Em linhas gerais essa formula também implicitamente depende da atuação de Venture Capitals. Nenhuma empresa é criada já tendo posse de economias de escala ou bases de usuários grandes. Ao invés disso, são sempre necessários anos de operação em déficit e rodadas de investimentos na esperança de conseguir capturar e consolidar esse mercado. Esse processo de disrupção, captura (e a guerra contra copycats) e finalmente o monopólio onde os lucros são extraídos será explorada em detalhes.
 
+O fundador do Facebook Mark Zuckenberg, [guiado e financiado pelo Peter Thiel](https://web.archive.org/web/20231023223839/https://www.businessinsider.com/mark-zuckerberg-peter-thiel-strange-relationship-contrarian-max-chafkin-2021-9?international=true&r=US&IR=T), codificou um lema para essa ideologia "disruptiva" que passou a ser adotada por empresas do mundo todo: "Move Fast and Break Things: if you never break anything, you're probably not moving fast enough."
+
 A observação de que o capitalismo é incompatível com livre mercado e competição pode parecer contraditória, mas na verdade tem um passado marxista. O autor Vladimir Ulianov, em seu livro clássico ["Imperialismo: Fase Superior do Capitalismo"](https://www.marxists.org/portugues/lenin/1916/imperialismo/index.htm) em 1916 define o capitalismo como tendo duas fases, antes e depois da Primeira Guerra Mundial, o capitalismo do "livre mercado" e o capitalismo "imperialista," "de finanças," ou
 mmonopolista.
 Nessa segunda fase, o poder econômico dos bancos e capital de finanças (hoje chamados de Venture Capital) suplanta as forças de consumo de luta dos produtores. Com o uso de grandes investimentos de outras áreas da economia já monopolizadas, empresas com perspectivas monopolistas como a Uber podem [operar anos no prejuízo](https://www.bbc.com/portuguese/geral-49858418) na perspectiva de consolidar mais um mercado com práticas anti-competitivas, como ["Price
@@ -95,16 +97,16 @@ De 2011 até 2014 a empresa recebeu mais de [10 milhões de dólares](http://www
 
 ##### Prosus-Movile
 
-Em paralelo, Fabricio Bloisi (atual presidente do iFood), Unicamp em Ciência da Computação, fundou em 1998 a empresa de software IntraWeb (futura Movile), com foco em sistemas de sms ou distribuição de conteúdo para celulares pre-smartphone. O sucesso relevante dessa empresa só veio com  a criação do PlayKids, um aplicativo de VOD de desenhos para crianças em 2013. Esse capital é então re-investido em outros projetos nacionais como Sympla ou internacionais, como o Mensajeros Urbanos, com intenção de se tornar uma empresa de capital de risco. Com esse sucesso, o holding multinacional Prosus, subsidiária dedicada para investimentos em serviços de internet da Naspers, passa a investir e finalmente comprar a empresa Movile.
+Em paralelo, Fabricio Bloisi (atual presidente do iFood), Unicamp em Ciência da Computação, fundou em 1998 a empresa de software IntraWeb (futura Movile), com foco em sistemas de sms ou distribuição de conteúdo para celulares pre-smartphone. O sucesso relevante dessa empresa só veio com a criação do PlayKids, um aplicativo de VOD de desenhos para crianças em 2013. Esse capital é então re-investido em outros projetos nacionais como Sympla ou internacionais, como o Mensajeros Urbanos, com intenção de se tornar uma empresa de capital de risco. Com esse sucesso, o holding multinacional Prosus, subsidiária dedicada para investimentos em serviços de internet da Naspers, passa a investir e finalmente comprar a empresa Movile.
 
 Prosus também é [proprietária de diversas empresas importantes](https://www.prosus.com/our-portfolio) na tecnologia da informação, como StackOverflow, Udemy, PayU, OLX, codecademy, Brainly e outras empresas de delivery como Delivery Hero na Europa.
 
-Sua empresa-mãe, Naspers, foi criada como imprensa do Partido Nacionalista da Africa do Sul, sendo usada para defender e implementar o Apartheid, e quando se torna um holding financia o próprio partido.
+Sua empresa-mãe, [Naspers](https://blocktrends.com.br/da-defesa-do-apartheid-ao-seu-cupom-no-ifood-a-historia-da-naspers/), foi criada como imprensa do Partido Nacionalista da Africa do Sul, sendo usada para defender e implementar o Apartheid, e quando se torna um holding financia o próprio partido.
 
 
-Após anos como acionista majoritária, a Movile finalmente compra totalmente o iFood em 2022 com mais de 10 bilhões de dólares.
+Após anos como acionista majoritária, a Movile finalmente [compra totalmente](https://www.news.ifood.com.br/movile-passa-a-deter-100-do-ifood-em-transacao-de-ate-r-94-bilhoes/) o iFood em 2022 com mais de 10 bilhões de dólares.
 
 #### Competição: Práticas anticompetitivas em um novo mercado
 
 
-O iFood não foi a primeira empresa para utilizar o sistema de entregadores desregulamentados para realizar o trabalho, produzindo apenas o sistema de gerenciamento. A multinacional de transporte irregular Uber implementou o sistema que passou a ser o modelo base do iFood em escala internacional.
+O iFood não foi a primeira empresa para utilizar o sistema de entregadores desregulamentados para realizar o trabalho, produzindo apenas o sistema de gerenciamento. A multinacional de transporte irregular Uber implementou o sistema que passou a ser o modelo base do iFood em escala internacional. Durante os primeiros 7 anos, o cre
